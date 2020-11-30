@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_58872_needit_needit">
+    <x_58872_needit_needit action="DELETE">
+        <number>NI002014</number>
+        <state>13</state>
+        <sys_class_name>x_58872_needit_needit</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-29 14:11:36</sys_created_on>
+        <sys_id>692e5d152f306410497518aa2799b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>x_58872_needit_needit_692e5d152f306410497518aa2799b697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-29 14:11:36</sys_updated_on>
+        <u_request_type>facilities</u_request_type>
+        <u_requested_for display_value="Bryan Rovell">b682abf03710200044e0bfc8bcbe5d0f</u_requested_for>
+        <u_what_needed>facilities 1</u_what_needed>
+        <u_when_needed/>
+    </x_58872_needit_needit>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>173e9192dbb09090e03ad7c8f4961943</instance_id>
+        <instance_name>dev104007</instance_name>
+        <name>x_58872_needit_needit_692e5d152f306410497518aa2799b697</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_58872_needit_needit"><x_58872_needit_needit action="INSERT_OR_UPDATE"><number>NI002014</number><state>13</state><sys_class_name>x_58872_needit_needit</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-29 14:11:36</sys_created_on><sys_id>692e5d152f306410497518aa2799b697</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>x_58872_needit_needit_692e5d152f306410497518aa2799b697</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-29 14:11:36</sys_updated_on><u_request_type>facilities</u_request_type><u_requested_for display_value="Bryan Rovell">b682abf03710200044e0bfc8bcbe5d0f</u_requested_for><u_what_needed>facilities 1</u_what_needed><u_when_needed/></x_58872_needit_needit></record_update>]]></payload>
+        <payload_hash>1126183949</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>279c31672fe82010497518aa2799b612</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-29 14:11:36</sys_created_on>
+        <sys_id>6d2e5d152f306410497518aa2799b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17614583ee00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-29 14:11:36</sys_updated_on>
+        <type>NeedIt</type>
+        <update_guid>a52e5d153e306410a243f0bf3dc71b98</update_guid>
+        <update_guid_history>a52e5d153e306410a243f0bf3dc71b98:1126183949</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9e7970692f386410497518aa2799b6ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 06:09:50</sys_created_on>
+        <sys_db_object display_value="" name="x_58872_needit_needit">x_58872_needit_needit</sys_db_object>
+        <sys_id>35b124dbddb142af91c549f1b3588371</sys_id>
+        <sys_metadata>692e5d152f306410497518aa2799b697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>x_58872_needit_needit_692e5d152f306410497518aa2799b697</sys_update_name>
+        <sys_update_version display_value="x_58872_needit_needit_692e5d152f306410497518aa2799b697">6d2e5d152f306410497518aa2799b698</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 06:09:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

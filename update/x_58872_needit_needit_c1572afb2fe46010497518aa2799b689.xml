@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_58872_needit_needit">
     <x_58872_needit_needit action="INSERT_OR_UPDATE">
         <number>NI002005</number>
+        <short_description>200</short_description>
         <state>Work in Progress</state>
         <sys_class_name>x_58872_needit_needit</sys_class_name>
         <sys_created_by>admin</sys_created_by>
